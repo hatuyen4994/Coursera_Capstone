@@ -1,0 +1,246 @@
+,name,address,latitude,longitude
+0,Luminor Hôtel de Ville,"20, rue du Temple 75004 Paris 4e arrondissement",48.85869,2.35359
+1,Espace Saint-Michel,"7, place Saint-Michel 75005 Paris 5e arrondissement",48.85309,2.34423
+2,Studio Galande,"42, rue Galande 75005 Paris 5e arrondissement",48.851620000000004,2.34708
+3,Centre Georges-Pompidou,"pl. Georges-Pompidou 75004 Paris 4e arrondissement, Métro Hotel-de-Ville, Rambuteau.",48.86068,2.3519799999999997
+4,Saint-André des Arts,"30 rue Saint-André-des-Arts: caisse, salles 1 & 2 - 12 rue Gît-le-Cœur, Salle 3 75006 Paris 6e arrondissement",48.8533,2.34227
+5,MK2 Odéon (Côté St Michel),"7, rue Hautefeuille 75006 Paris 6e arrondissement",48.85219,2.34279
+6,MK2 Beaubourg,"50, rue Rambuteau 75003 Paris 3e arrondissement",48.86158,2.35229
+7,Christine 21,"4, rue Christine 75006 Paris 6e arrondissement",48.854459999999996,2.34013
+8,Le Champo - Espace Jacques Tati,"51, rue des Ecoles 75005 Paris 5e arrondissement",48.84998,2.34321
+9,Nouvel Odéon,"6, rue de l'Ecole-de-Medecine 75006 Paris 6e arrondissement",48.85076,2.34175
+10,Forum des images,"Forum des Halles, 2 rue du Cinéma 75001 Paris 1er arrondissement",48.859140000000004,2.34744
+11,UGC Odéon,"124, bd Saint-Germain 75006 Paris 6e arrondissement",48.85235,2.33983
+12,Ecoles 21,"23, rue des Ecoles 75005 Paris 5e arrondissement",48.84838,2.34897
+13,UGC Ciné Cité Les Halles,"7, place de la Rotonde 75001 Paris 1er arrondissement",48.8631896972656,2.34201002120972
+14,Reflet Medicis,3 rue Champollion 75005 Paris 5e arrondissement,48.8498,2.343
+15,Filmothèque du Quartier Latin,"9, rue Champollion 75005 Paris 5e arrondissement",48.849509999999995,2.34279
+16,UGC Danton,"99, bd Saint-Germain 75006 Paris 6e arrondissement",48.852140000000006,2.339
+17,MK2 Odéon (Côté St Germain),"113, bd Saint-Germain 75006 Paris 6e arrondissement",48.85244,2.33827
+18,Le Grand Action,"5, rue des Ecoles 75005 Paris 5e arrondissement",48.84754,2.35212
+19,Studio Luxembourg Accattone,20 rue Cujas 75005 Paris 5e arrondissement,48.84815,2.34198
+20,Les 3 Luxembourg,"67, rue Monsieur-le-Prince 75006 Paris 6e arrondissement",48.84841,2.34077
+21,Cinéma du Panthéon,"13, rue Victor-Cousin 75005 Paris 5e arrondissement",48.8475,2.3423
+22,MK2 Bastille (côté Beaumarchais),"4, boulevard Beaumarchais 75011 Paris 11e arrondissement",48.85454,2.36905
+23,L'Arlequin,76 rue de Rennes 75006 Paris 6e arrondissement,48.851279999999996,2.33065
+24,Majestic Bastille,4 boulevard Richard Lenoir 75011 Paris 11e arrondissement,48.85399,2.36995
+25,Studio des Ursulines,"10, rue des Ursulines 75005 Paris 5e arrondissement",48.842729999999996,2.3420400000000003
+26,MK2 Bastille (côté Fg St Antoine),"5, rue du Faubourg-Saint-Antoine 75011 Paris 11e arrondissement",48.853159999999995,2.37072
+27,Epée de Bois,"100, rue Mouffetard 75005 Paris 5e arrondissement, Métro Censier-Daubenton.",48.84132,2.34954
+28,L'Archipel - PARIS CINE,17 bd de Strasbourg 75010 Paris 10e arrondissement,48.870459999999994,2.35466
+29,Le Grand Rex,"1, bd Poissonniere 75002 Paris 2e arrondissement",48.87055,2.34775
+30,Max Linder Panorama,"24, bd Poissonniere 75009 Paris 9e arrondissement",48.871359999999996,2.3448900000000004
+31,Le Brady Cinema & Théâtre,"39, bd de Strasbourg 75010 Paris 10e arrondissement",48.871958500000005,2.3554952
+32,UGC Lyon Bastille,"12, rue de Lyon 75012 Paris 12e arrondissement",48.8475,2.37186
+33,Lucernaire,"53, rue Notre-Dame-des-Champs 75006 Paris 6e arrondissement",48.84424,2.3304099999999996
+34,MK2 Parnasse,"11, rue Jules Chaplain 75006 Paris 6e arrondissement",48.84281,2.33053
+35,UGC Opéra,"32, bd des Italiens 75009 Paris 9e arrondissement",48.87133,2.3353
+36,Gaumont Opéra (côté Premier),"32, rue Louis Legrand 75002 Paris 2e arrondissement",48.87063,2.33434
+37,Gaumont Opéra (côté Français),"38, bd des Italiens 75009 Paris 9e arrondissement",48.871179999999995,2.33442
+38,Gaumont Opéra (côté Capucines),"2, bd des Capucines - 38, bd des Italiens - 32, rue Louis Legrand 75009 Paris 9e arrondissement",48.871,2.3340799999999997
+39,Escurial,11 boulevard de Port Royal 75013 Paris 13e arrondissement,48.83682,2.34963
+40,UGC Rotonde,"103, bd du Montparnasse 75006 Paris 6e arrondissement",48.84243,2.3289400000000002
+41,Sept Parnassiens,"98, bd du Montparnasse 75014 Paris 14e arrondissement, Métro Vavin.",48.84244,2.32763
+42,UGC Montparnasse,"83, bd du Montparnasse 75006 Paris 6e arrondissement",48.843509999999995,2.32565
+43,Bretagne,"73, bd du Montparnasse 75006 Paris 6e arrondissement",48.84375,2.3249299999999997
+44,Gaumont Parnasse,"3, rue d'Odessa 75014 Paris 14e arrondissement",48.84308,2.32442
+45,Gaumont Parnasse côté Montparnos,16 Rue d'Odessa 75014 Paris 14e arrondissement,48.84216,2.3245
+46,Gaumont Les Fauvettes,"58, av. des Gobelins 75013 Paris 13e arrondissement",48.83357,2.35378
+47,Fondation Jerome Seydoux - Pathé,73 avenue des Gobelins 75013 Paris 13e arrondissement,48.83339,2.35453
+48,UGC Gobelins,"66bis, av. des Gobelins 75013 Paris 13e arrondissement",48.833,2.35418
+49,Les Cinq Caumartin,"101, rue Saint-Lazare 75009 Paris 9e arrondissement",48.875609999999995,2.3279099999999997
+50,Cinéma Chaplin Denfert,"24, place Denfert-Rochereau 75014 Paris 14e arrondissement",48.83388,2.33098
+51,MK2 Grand Palais,"A l'intérieur du Grand Palais: à l'angle du Cours de la Reine et de l'Avenue Winston-Churchill / Entrée par les marches de la Rotonde Alexandre 3, à côté du restaurant Mini Palais. 75008 Paris 8e arrondissement",,
+52,Le Louxor - Palais du cinéma,170 Boulevard de Magenta 75010 Paris 10e arrondissement,48.8833978,2.3498987999999996
+53,La Cinémathèque française,51 rue de Bercy 75012 Paris 12e arrondissement,48.84367,2.3736
+54,MK2 Bibliothèque,128-162 avenue de France 75013 Paris 13e arrondissement,48.83167,2.376
+55,Gaumont Alésia,"73, av. du Gal-Leclerc 75014 Paris 14e arrondissement",48.82817,2.32746
+56,Lieu Secret - L'Entrepôt,"7-9, rue Francis-de-Pressense 75014 Paris 14e arrondissement",48.833940000000005,2.31651
+57,MK2 Quai de Loire,7 quai de Loire 75019 Paris 19e arrondissement,48.88387,2.3716
+58,Gaumont Champs-Elysées - Marignan,27-33 avenue des Champs-Elysées 75008 Paris 8e arrondissement,48.86946,2.30748
+59,Le Cinéma des Cinéastes,"7, av. de Clichy 75017 Paris 17e arrondissement",48.8843,2.32689
+60,Pathé Wepler,"140, bd de Clichy et 8, av de Clichy 75018 Paris 18e arrondissement",48.88394,2.32803
+61,Cinéma Studio 28,"10, rue Tholoze 75018 Paris 18e arrondissement",48.886140000000005,2.33534
+62,MK2 Quai de Seine,"14, quai de la Seine 75019 Paris 19e arrondissement",48.88507,2.37149
+63,UGC Ciné Cité Bercy,"2, cour Saint-Emilion 75012 Paris 12e arrondissement",48.8318355,2.3852327
+64,Elysées Lincoln,"14, rue Lincoln 75008 Paris 8e arrondissement",48.870509999999996,2.3031599999999997
+65,MK2 Gambetta,"6, rue Belgrand 75020 Paris 20e arrondissement",48.86476,2.3995599999999997
+66,Cinéma Chaplin Saint Lambert,"6, rue Peclet 75015 Paris 15e arrondissement",48.8432,2.2985599999999997
+67,UGC Normandie,"116Bis, Avenue des Champs-Elysées 75008 Paris 8e arrondissement",48.87227,2.30094
+68,Le Balzac,"1, rue Balzac 75008 Paris 8e arrondissement",48.872820000000004,2.2997900000000002
+69,UGC George V,"146, av. des Champs-Elysees 75008 Paris 8e arrondissement",48.8728978,2.2982735
+70,Publicis Cinémas,"129, av. des Champs-Elysees 75008 Paris 8e arrondissement",48.87267,2.29738
+71,Gaumont Convention,"27, rue Alain-Chartier 75015 Paris 15e arrondissement",48.837790000000005,2.2962599999999997
+72,Pathé Quai d'Ivry IMAX,"2, quai Marcel Boyer 94200 Ivry-sur-Seine",48.82495,2.3889400000000003
+73,Club de l'Etoile,14 rue troyon 75017 Paris 17e arrondissement,48.87611,2.29535
+74,Mac-Mahon,"5, av. Mac-Mahon 75017 Paris 17e arrondissement",48.87554,2.29448
+75,Majestic Passy,18 rue de Passy 75016 Paris 16e arrondissement,48.85824,2.2823
+76,Pathé Beaugrenelle,7 rue Linois 75015 Paris 15e arrondissement,48.8489,2.28258
+77,CGR Paris Lilas,Place du maquis du Vercors 75020 Paris 20e arrondissement,48.87767,2.4089099999999997
+78,Cinéma Marcel-Pagnol,17 rue Béranger 92240 Malakoff,48.82091,2.30275
+79,Cin'Hoche,"6, rue Hoche 93170 Bagnolet",48.869240000000005,2.41703
+80,UGC Ciné Cité Paris 19,"166, boulevard Mac Donald 75019 Paris 19e arrondissement",48.898990000000005,2.37676
+81,Pathé La Villette,30 avenue Corentin Cariou 75019 Paris 19e arrondissement,48.89699,2.38512
+82,Mégarama Arcueil,8 av du Président Allende 94110 Arcueil,48.81023,2.32817
+83,Le Luxy,"77, av. Georges-Gosnat 94200 Ivry-sur-Seine",48.81362,2.3893400000000002
+84,UGC Maillot,"porte Maillot, Palais des Congres 75017 Paris 17e arrondissement, Métro Porte-Maillot",48.878490447998,2.2802500724792503
+85,Pathé Levallois So Ouest,"Centre commercial So Ouest - 28, rue d'Alsace 92300 Levallois-Perret",48.89139,2.2957799999999997
+86,Cinéma du Garde-Chasse,181 bis rue de Paris 93260 Les Lilas,48.88097,2.41984
+87,Espace 1789,"2-4, rue Alexandre-Bachelet 93400 Saint-Ouen",48.90804,2.3335
+88,Cinéma De Vanves,"12, rue Sadi-Carnot 92170 Vanves",48.82193,2.28622
+89,Ciné 104,"104, av. Jean-Lolive 93500 Pantin",48.892179999999996,2.4089099999999997
+90,Gaumont Aquaboulevard,"8-16, rue du Colonel-Pierre-Avia 75015 Paris 15e arrondissement",48.83148,2.27752
+91,Théâtre-Cinéma Victor Hugo,"14, Avenue Victor Hugo 92220 Bagneux",48.80406,2.3218099999999997
+92,Espace municipal Jean Vilar,"1, rue Paul Signac 94110 Arcueil",48.80135,2.3307
+93,Le Vincennes,30 avenue de Paris 94300 Vincennes,48.8451,2.43427
+94,Rutebeuf,16-18 allee Gambetta 92110 Clichy,48.902,2.3091
+95,Le Studio,"2, rue Edouard-Poisson 93300 Aubervilliers",48.91062,2.38484
+96,Ciné d'Issy,11-13 rue Danton/mail Menand Métro Mairie d'Issy conservatoire de musique 92130 Issy-les-Moulineaux,48.82502,2.26946
+97,La Pleiade,"12, av. Cousin-de-Mericourt 94230 Cachan",48.7958,2.3353200000000003
+98,Le Village,"4, rue de Chezy 92200 Neuilly-sur-Seine",48.88536,2.26822
+99,Georges Méliès,"12, place Jean-Jaurès 93100 Montreuil",48.862590000000004,2.44214
+100,Cinéma d'Art Romain Rolland,18 rue Eugène Varlin 94800 Villejuif,48.79343,2.3632
+101,Le Trianon,Place Carnot 93230 Romainville,48.8838,2.4405799999999997
+102,L'Alcazar,"1, rue de la Station 92600 Asnières-sur-Seine",48.90633,2.28405
+103,Cinéma de Châtillon,"7bis, rue de la Mairie 92320 Châtillon",48.800287700000005,2.2888146000000003
+104,Abel Gance,"184, bd. Saint-Denis 92400 Courbevoie",48.90124,2.27163
+105,Les 3 Cinés - Robespierre,"19, avenue Maximilien Robespierre 94400 Vitry-sur-Seine",,
+106,Pôle Culturel,"82, rue Marcel Bourdarias 94140 Alfortville",48.8056351,2.4234811
+107,Gaumont Stade de France,"8, rue du Mondial-1998 93200 Saint-Denis",48.9254,2.36312
+108,Pathé Boulogne,"26, rue Le Corbusier 92100 Boulogne-Billancourt",48.83765,2.23953
+109,Cinéma Landowski,"28, av. Andre-Morizet 92100 Boulogne-Billancourt",48.83591,2.23929
+110,Théâtre Claude Debussy,116 avenue du Général de Gaulle 94700 Maisons-Alfort,48.80135,2.43108
+111,La Tournelle,"14, rue Dispan 94240 L' Haÿ-les-Roses",48.77975,2.33901
+112,L'Etoile,"1, allee du Progres 93120 La Courneuve",48.92715,2.3919200000000003
+113,Le Kosmos,"243 ter, av. de la Republique 94120 Fontenay-sous-Bois",48.85267,2.4670400000000003
+114,Mégarama Villeneuve-la-Garenne,44 Avenue de la Longue Bertrane 92390 Villeneuve-la-Garenne,48.930679999999995,2.3208900000000003
+115,Salle Jean-Renoir,7 Villa des Aubépines 92270 Bois-Colombes,48.9151000976562,2.26845908164978
+116,Le Central,136 rue de la République 92800 Puteaux,48.884409999999995,2.23725
+117,L'Ecran,14 passage de l'Aqueduc 93200 Saint-Denis,48.936890000000005,2.35929
+118,Cinéma Le Capitole,"3, rue Ledru-Rollin 92150 Suresnes",48.8702907,2.2283171000000004
+119,UGC Ciné Cité La Défense,Le Dôme - Centre commercial Les 4 Temps 92092 Paris - La Défense,48.888988494873,2.24124002456665
+120,Jean-Vigo,"1, rue Pierre-et-Marie-Curie 92230 Gennevilliers",48.928470000000004,2.2932099999999997
+121,Magic Cinéma,"Centre commercial 2, Rue du Chemin-Vert 93000 Bobigny",48.904924900000005,2.44563
+122,Théâtre André Malraux,"102, av. du General-de-Gaulle 94550 Chevilly-Larue",48.77043,2.3509599999999997
+123,Centre d'art et de culture,"15, boulevard des Nations Unies 92190 Meudon",48.8133,2.23583
+124,Trianon,"3 bis, rue Marguerite-Renaudin 92330 Sceaux",48.77771,2.29238
+125,Les Trois Pierrots,"6, rue du Mont-Valerien 92210 Saint-Cloud",48.85233,2.2164099999999998
+126,Centre culturel Andre-Malraux,"10, av. Francis-de-Pressense 93350 Le Bourget",48.932359999999996,2.42486
+127,L'Hélios,"35, rue du Bournard 92700 Colombes",48.92322,2.25453
+128,Ciné Gérard-Philipe,1 place Jane Rhodes 92350 Le Plessis-Robinson,48.781589508056605,2.26255989074707
+129,Ciné-Sel,47-49 Grande-Rue 92310 Sèvres,48.8249,2.21477
+130,"Cinémas du palais, Armand-Badéyan","40, allee Parmentier 94000 Créteil",48.78608,2.4441900000000003
+131,Royal Palace,"165, grande rue Charles-de-Gaulle 94130 Nogent-sur-Marne",48.83833,2.48944
+132,Espace Culturel du Parc,120 rue Sadi Carnot 93700 Drancy,48.926064200000006,2.4401704
+133,Cinéma André-Malraux,"25, cours de la Republique 93140 Bondy",48.9016,2.48009
+134,Théâtre-Cinéma Paul-Eluard,"4, av. de Villeneuve-Saint-Georges 94600 Choisy-le-Roi",48.76638,2.4147
+135,Pathé Thiais - Belle Epine,Centre commercial Belle-Epine 94320 Thiais,48.760414123535206,2.3859620094299303
+136,Ariel - Hauts de Rueil,58 avenue de Fouilleuses 92500 Rueil-Malmaison,48.86227,2.19508
+137,Espace Culturel Robert Doisneau,16 avenue du Maréchal de Lattre de Tassigny 92360 MEUDON LA FORET,48.78693,2.23127
+138,UGC Ciné Cité Créteil,Centre commercial -Soleil 94000 Créteil,48.7845268249512,2.45385599136353
+139,CGR Epinay-sur-Seine,"5, avenue Joffre 93800 Épinay-sur-Seine",48.95786,2.302
+140,Centre des Bords-de-Marne,"2, rue de la Prairie 94170 Le Perreux-sur-Marne",48.846920000000004,2.50965
+141,Le Lido,"70, av. de la Republique 94100 Saint-Maur-des-Fossés",48.798429999999996,2.48582
+142,Le Sélect,"10, avenue de la Division Leclerc 92160 Antony",48.753029999999995,2.30478
+143,La Fauvette,"21, av. Daniel-Perdrige 93360 Neuilly-Plaisance",48.87307,2.51061
+144,Le Rex,"364, av. de la Division-Leclerc 92290 Châtenay-Malabry",48.765809999999995,2.25988
+145,Les Lumières,"49, rue Maurice-Thorez 92000 Nanterre",48.8926,2.1957299999999997
+146,Ciné Garches,86 Grand-Rue 92380 Garches,48.844229999999996,2.1886900000000002
+147,Le Colombier,Place Charles de Gaulle 92410 Ville-d'Avray,,
+148,La Lucarne,"100, rue Juliette Savar 94000 Créteil",48.777571,2.4667865
+149,Centre culturel Le Figuier blanc,16-18 Rue Grégoire Collas 95100 Argenteuil,48.94328,2.24776
+150,Studio 66,"66, rue Jean-Jaures 94500 Champigny-sur-Marne",48.8144,2.50813
+151,Cinéma Jean Gabin,12/14 boulevard Léon-Feix 95100 Argenteuil,48.946940000000005,2.24931
+152,L'Atrium,"3, parvis Robert-Schuman 92370 Chaville",48.81327,2.19246
+153,UGC Vélizy 2,Centre commercial Velizy II 78140 Vélizy-Villacoublay,48.7839164733887,2.19418692588806
+154,Ariel - Centre ville,97-99 av. Paul-Doumer 92500 Rueil-Malmaison,48.879909999999995,2.18105
+155,Louis-Daquin,"16, mail Debre Berhan - Place Gabriel Péri 93150 Le Blanc-Mesnil",48.93829,2.46371
+156,Espace des Arts - Salle Philippe Noiret,144 avenue Jean Jaurès 93320 Les Pavillons-sous-Bois,48.90291,2.50806
+157,Espace Bernard Mantienne,3 voie de l'Aulne 91370 Verrières-le-Buisson,48.75265,2.27053
+158,Salle Aragon-Triolet,"1, Place Gaston Viens 94310 Orly",48.74488,2.4079099999999998
+159,UGC Enghien Le Français,"38, rue du Général de Gaulle 95880 Enghien-les-Bains",48.97084,2.3071900000000003
+160,Centre des Arts,12-16 rue de la Libération 95880 Enghien-les-Bains,48.97209,2.30544
+161,Les Toiles,place Francois-Truffaut 95210 Saint-Gratien,48.967909999999996,2.2848
+162,Ecrans Eluard,"162, rue Maurice-Berteaux 95870 Bezons",48.93116,2.20708
+163,Jacques Brel,"1, place de l'Hotel-de-Ville 95140 Garges-lès-Gonesse",48.97187,2.3998
+164,Théatre Andre-Malraux,"1bis, rue Guillemeteau 93220 Gagny",48.883959999999995,2.5299400000000003
+165,Théâtre et Cinéma Jacques-Prevert,134 avenue Anatole-France 93600 Aulnay-sous-Bois,48.94059,2.49629
+166,Cinéma 4 Delta,81bis av. du Bac 94210 La Varenne-Saint-Hilaire,48.7936,2.51431
+167,Normandy,"72, bd de la Republique 92420 Vaucresson",48.83788,2.1575
+168,CGR My Place,"2, allée Henri Dunant 95200 Sarcelles",48.98375,2.3719200000000003
+169,Cinémassy,pl. de France 91300 Massy,48.73256,2.28976
+170,UGC Ciné Cité Noisy-le-Grand,Centre commercial les Arcades 93160 Noisy-le-Grand,48.8327445983887,2.56930303573608
+171,Le Casino,"13, rue Guillaume Budé 94350 Villiers-sur-Marne",48.82607,2.5423400000000003
+172,Louis-Jouvet,"3, place Maurice-Berteaux 78400 Chatou",48.88677,2.1560900000000003
+173,UGC Ciné Cité O'Parinor,Centre commercial O’Parinor Le Haut de Galy 93600 Aulnay-sous-Bois,,
+174,Le Bijou,4 place de la libération 93160 Noisy-le-Grand,48.84885,2.5525599999999997
+175,Cinéma l'Eden,5 bis rue de Pontoise 95160 Montmorency,48.988820000000004,2.31809
+176,Espace Jean-Marie Poirier,1 esplanade du 18 juin 1940 94370 Sucy-en-Brie,48.77071,2.51804
+177,Le Forum,Place du Forum (Quartier de la Haie-Griselle) 94470 Boissy-Saint-Léger,48.75373,2.50368
+178,Pathé Massy,"21, Place du Grand Ouest 91300 Massy",48.7236391,2.2628095
+179,L'Avant-Scène,78-80 avenue d'Alsace Lorraine 91550 Paray-Vieille-Poste,48.71519,2.36026
+180,Cinéma Pierre Fresnay,"3, rue Saint-Flaive prolongée 95120 Ermont",48.99072,2.2608099999999998
+181,Cinéma Yves-Montand,"36, rue Eugene-Masse 93190 Livry-Gargan",48.92579,2.5451200000000003
+182,Cinéma Jean-Marais,"59, bd. Carnot 78110 Le Vésinet",48.89399,2.13433
+183,Cinéma Ventura,"4, rue Samuel-Desbordes 91200 Athis-Mons",48.70962,2.38722
+184,Salle Le Cormier,123 Rue de Saint Germain 95240 Cormeilles-en-Parisis,48.95982,2.18915
+185,Etoile Cosmos,"22, av. de la Resistance 77500 Chelles",48.87787,2.5863400000000003
+186,Espace Paul-Valery,72-74 av. Ardouin 94420 Le Plessis-Trévise,48.80534,2.57812
+187,L'Atalante,"48, rue du Prieuré 78600 Maisons-Laffitte",48.94636,2.1469400000000003
+188,Cinéma Varda,37-39 Grande-Rue 91260 Juvisy-sur-Orge,48.69047,2.37512
+189,Le Fontenelle,Place de la Gare 78160 Marly-le-Roi,48.871179999999995,2.09705
+190,Le Cyrano,"114, av. de la Republique 91230 Montgeron",48.703759999999996,2.46109
+191,Paradiso,2 rue Marc-Sangnier 91330 Yerres,48.71476,2.48965
+192,Cinema Jacques-Tati,29bis av. du general-de-Gaulle 93290 Tremblay-en-France,48.94109,2.57038
+193,Mégarama Montigny les Cormeilles,82 boulevard Victor Bordier 95370 Montigny-lès-Cormeilles,48.99405,2.19543
+194,Cinéma Domont,"12, allee Sainte-Therese 95330 Domont",49.029990000000005,2.33303
+195,Calypso,"38, rue Victor-Basch 91170 Viry-Châtillon",48.68182,2.3793900000000003
+196,EuropaCorp CINEMAS,30 rue des Buissons - Centre commercial Aéroville 95700 Roissy-en-France,48.9963,2.52354
+197,Cinéma Apollo,"62, av. de la Republique 77340 Pontault-Combault",48.80338,2.61123
+198,La Ferme du buisson,allee de la Ferme 77186 Noisiel,48.844770000000004,2.625
+199,Les Varietes,"72, rue de Chelles 77360 Vaires-sur-Marne",48.87417,2.63237
+200,Espace/MJC Jacques-Tati,"14, av. Saint-Laurent 91400 Orsay",48.69878,2.18973
+201,Théâtre Sarah-Bernhardt,"82, boulevard Paul Vaillant Couturier 95190 Goussainville",49.03242,2.4718
+202,Pandora,"6, allee Simone-Signoret (place du marche) 78260 Achères",48.96096,2.06777
+203,C2L Poissy,place de la République 78300 Poissy,48.9282,2.04471
+204,UGC Ciné Cité SQY Ouest,1 avenue de la Source de la Bievre 78180 Montigny-le-Bretonneux,48.783728100000005,2.0404575
+205,Quatre Perray,44-46 av. Gabriel-Peri 91700 Sainte-Geneviève-des-Bois,48.65101,2.31724
+206,Cinéma de la Grange,Ferme de la Tremblaye - Rue du Parc 78390 Bois-d'Arcy,48.79975,2.02369
+207,Cinés Carné,place Marcel Carne 91240 Saint-Michel-sur-Orge,48.63708,2.32112
+208,Salle Jacques-Brel,"4, rue de la Mare-aux-Carats 78180 Montigny-le-Bretonneux",48.770309999999995,2.02997
+209,Cinéma Atmosphère,Parc des Célestins (1 Rue Gambetta) 91460 Marcoussis,48.649543762207,2.19750809669495
+210,Pathé Conflans Sainte Honorine,Rue de l'Hautil - ZA Les Boutries 78700 Conflans-Sainte-Honorine,49.00725,2.0802099999999997
+211,Les 4 Vents,80 avenue du general leclerc 77170 Brie-Comte-Robert,48.68611,2.6242400000000004
+212,CGR Evry,Centre Commercial 2 - Place de l'Agora 91000 Évry,48.62838,2.42846
+213,La Luciole,"1, Route de Pontoise 95540 Méry-sur-Oise",49.05932,2.16551
+214,Grenier à sel,"1, rue de l'Abreuvoir 78190 Trappes",48.777229999999996,2.0023299999999997
+215,Espace Philippe Noiret,Place Charles de Gaulle 78340 Les Clayes-sous-Bois,48.82139,1.98681
+216,La Coupole,rue Jean-Francois-Millet 77380 Combs-la-Ville,48.6595,2.56738
+217,Utopia Stella,"1, place Pierre-Mendes-France 95310 Saint-Ouen-l'Aumône",49.0446,2.1069999999999998
+218,Ciné 220,rue Anatole-France 91220 Brétigny-sur-Orge,48.60835,2.30457
+219,Royal Utopia,14 rue Alexandre-Prachay 95300 Pontoise,49.04919,2.09905
+220,Centre culturel,96 avenue des Bruzacques 95280 Jouy-le-Moutier,49.00765,2.0447599999999997
+221,Cinéma Agnès Varda,1 Place Cassini 89300 Joigny,47.957229999999996,3.4000800000000004
+222,Cinéma Arcel,"15, place Léon Cassé 91100 Corbeil-Essonnes",48.60392,2.46909
+223,Cinéma de l'Ysieux,Place Jean Moulin (Sortie Gare RER D) 95470 Fosses,49.09943,2.5251
+224,Le Conti,Place du Pâtis 95290 L' Isle-Adam,49.11018,2.2116
+225,Stars,"13, av. du General-de-Gaulle 91290 Arpajon",48.59069,2.25012
+226,Pathé Carré Sénart,"3 allée du préambule, Centre Commercial Carré Sénart 77127 Lieusaint",48.61615,2.54549
+227,L'Antarès,1 place du coeur-battant 95490 Vauréal,49.030120000000004,2.0211799999999998
+228,Espace Maurice-Béjart,"3, bd Andre-Malraux 78480 Verneuil-sur-Seine",48.979209999999995,1.9746099999999998
+229,Kinepolis Brétigny-sur-Orge,5 rue Michèle Morgan Les Promenades de Brétigny - ZAC de la Maison Neuve 91220 Brétigny-sur-Orge,48.5792291,2.2998088
+230,Ciné 7,centre commercial des Sept-Mares 78990 Élancourt,48.7769966125488,1.9570120573043799
+231,Studio 31,"31, Place d’Ariane 77700 Chessy",48.856120000000004,2.77374
+232,La Rotonde,place du 14-Juillet 1789 77550 Moissy-Cramayel,48.6285,2.59036
+233,Gaumont Disney Village IMAX,Esplanade François Truffaut - Disney Village 77705 Chessy,48.8695,2.7835099999999997
+234,Le Palace,"6, av. Anatole-France 95260 Beaumont-sur-Oise",49.14139,2.28308
+235,UGC Ciné Cité Cergy,"8, place des trois gares 95800 Cergy-le-Haut",42.6713218688965,-1.8129899501800502
+236,Cinéma Confluences Mennecy,zac montvrain 2 91540 Mennecy,48.565125,2.4388092
+237,Megarama Chambly,1 Place rama 60230 Chambly,49.15967,2.25737
+238,La Barbacane,place du 8 Mai 1945 78650 Beynes,48.85652,1.87588
+239,Cinéma Frédéric Dard,"77, rue Paul Doumer - 56, Boulevard Victor Hugo 78130 Les Mureaux",48.99253,1.91183
+240,Cinéma Confluences Ballancourt,"Espace Daniel Salvi - 2, rue des Colombes - ZAC de l'Aunaie 91610 Ballancourt-sur-Essonne",48.528729999999996,2.38846
+241,Les 2 Scènes,Place Henri Dunant (place des fetes) 78580 Maule,48.911809999999996,1.85001
+242,Cinéma Paul-Grimault,"1, av. de la Division-Leclerc 78410 Aubergenville",48.9589,1.85523
+243,L'Elysée,25 Avenue du Maréchal Joffre 60500 Chantilly,49.19137,2.46422
+244,Espace culturel Les 26 couleurs,Rue Pasteur 77310 Saint-Fargeau-Ponthierry,48.535309999999996,2.54675
